@@ -1,3 +1,10 @@
+'''
+Author: Gustavo Maciel
+E-mail: g-maciel@outlook.com
+Description: Python study through Rock, paper and scissor game.
+
+'''
+
 #Perguntar os dados de dois usuários
 #Usar while
 #Rock, Paper, Scissors
